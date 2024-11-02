@@ -29,7 +29,7 @@ Tools and Libraries
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn (for data manipulation and visualization).
 
 Results
-This project uncovers critical insights about patient demographics, healthcare resource allocation, and potential areas for efficiency improvement in the healthcare system.
+* This project uncovers critical insights about patient demographics, healthcare resource allocation, and potential areas for efficiency improvement in the healthcare system.
 
 Usage
 1. Clone the repository.
